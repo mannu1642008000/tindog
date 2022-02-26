@@ -67,8 +67,8 @@ p{
   color:#8f8f8f;
 }
 
-.collapso {
-  display:inline;
+.collapse{
+  display:inline-block;
 }
 
 .icon{
