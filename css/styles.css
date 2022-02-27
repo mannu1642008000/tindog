@@ -28,6 +28,9 @@ font-family:'Montserrat-Black',sans-serif;
   left: 500px;
   bottom: 10px;
 }
+
+#op {
+  display:inline-block;
 h2{
   font-family: "Montserrat-bold",sans-serif;
   font-size:3rem;
