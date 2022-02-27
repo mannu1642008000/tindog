@@ -29,10 +29,6 @@ font-family:'Montserrat-Black',sans-serif;
   bottom: 10px;
 }
 
-#op {
-  display:inline-block;
-}
-
 h2{
   font-family: "Montserrat-bold",sans-serif;
   font-size:3rem;
@@ -46,7 +42,7 @@ h2{
   font-family: "Montserrat-light",sans-serif;
    font-size: 1.2rem;
   position:relative;
-  left:300px;
+   left:300px;
 }
 .download{
   margin: 5% 3% 5% 0%;
@@ -130,7 +126,10 @@ p{
       }
 }
 
- 
+.nav-item {
+  position:Relative;
+  right:300px;
+}
 #cta{
   background-color:#ff4c68;
   padding:7% 15%;
